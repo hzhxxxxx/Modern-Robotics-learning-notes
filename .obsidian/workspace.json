@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "2b9344645e02b9e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4074c33b402c601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d43eb05ba349fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "669f6411a287a505",
+    "type": "split",
+    "children": [
+      {
+        "id": "b889bffce1ac1e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d960ee5baaae304",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "404c5a224c5a0bd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "989377696398db2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7cce0bcd9a3c402f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd68583330ca2349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c47af24a81e5a5b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第二章/2.1 C-space.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.1 C-space 的反向链接列表"
+            }
+          },
+          {
+            "id": "f903e757e16d20e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "3bfd31928fb9690f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "06637f9a69a26d00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "5511d5c68495a0db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c6d43eb05ba349fa",
+  "lastOpenFiles": [
+    "2025-10-20.md",
+    "README.md",
+    "8 第八章/8.2 动力学——单刚体动力学.md",
+    "8 第八章/8.1 动力学——拉格朗日公式.md",
+    "9 第九章/未命名 2.base",
+    "9 第九章/未命名 1.base",
+    "9 第九章/未命名.base",
+    "9 第九章/9.1 轨迹生成—点到点的轨迹and多项式插值法.md",
+    "9 第九章/9.2 轨迹生成—时间最优标度.md",
+    "3 第三章/3.4 齐次变换矩阵.md",
+    "3 第三章/3.5 运动旋量.md",
+    "5 第五章/5.1 运动旋量or力旋量的雅可比矩阵映射（引入）.md",
+    "5 第五章/5.2 求空间雅可比矩阵和物体雅可比矩阵.md",
+    "6 第六章/6.1 逆运动学.md",
+    "10 第十章/10.1 运动规划.md",
+    "8 第八章/8.3 动力学——牛顿欧拉算法.md",
+    "11 第十一章/11.1 控制原理回顾.md",
+    "attachments/Pasted image 20250717145523.png",
+    "11 第十一章/image 11/Pasted image 20250722153335.png",
+    "11 第十一章/image 11/Pasted image 20250722152156.png",
+    "11 第十一章/image 11/Pasted image 20250722140715.png",
+    "11 第十一章/image 11/Pasted image 20250722141525.png",
+    "11 第十一章/image 11/Pasted image 20250722150631.png",
+    "11 第十一章/image 11/Pasted image 20250722140600.png",
+    "11 第十一章/image 11",
+    "11 第十一章",
+    "3 第三章/3.8 力旋量.md",
+    "3 第三章/3.7 刚体运动的指数坐标.md",
+    "3 第三章/3.1 旋转矩阵.md",
+    "3 第三章/3.2 角速度.md",
+    "10 第十章/image 10/Pasted image 20250717151842.png",
+    "10 第十章/image 10/Pasted image 20250717151412.png",
+    "10 第十章/image 10/Pasted image 20250717151059.png",
+    "10 第十章/image 10",
+    "10 第十章",
+    "3 第三章/3.6 单位螺旋轴.md",
+    "9 第九章/image9",
+    "9 第九章",
+    "3 第三章/3.3 旋转的指数坐标.md",
+    "4 第四章/4.1 正运动学.md",
+    "7 第七章/7.1 闭链机器人.md",
+    "8 第八章/image8",
+    "2 第二章/2.1 C-space.md",
+    "2 第二章/2.5 任务空间与工作空间.md",
+    "2 第二章/2.2 机器人的自由度.md",
+    "2 第二章/2.4 位姿约束和速度约束.md",
+    "未命名.canvas"
+  ]
+}
