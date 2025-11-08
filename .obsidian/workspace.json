@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b4074c33b402c601",
+        "id": "841699ad9b3cc35e",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d43eb05ba349fa",
+            "id": "d1f923ffe5aeef99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第二章/2.1 C-space.md",
+                "file": "11 第十一章/11.1 控制原理回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,21 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2.1 C-space 的反向链接列表"
-            }
-          },
-          {
-            "id": "f903e757e16d20e7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "11.1 控制原理回顾 的反向链接列表"
             }
           },
           {
@@ -142,31 +124,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "11 第十一章/11.1 控制原理回顾.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "11.1 控制原理回顾 的大纲"
             }
           },
           {
-            "id": "5511d5c68495a0db",
+            "id": "b42fdfca49674ebe",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outgoing-link",
+              "state": {
+                "file": "11 第十一章/11.1 控制原理回顾.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "11.1 控制原理回顾 的出链列表"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,58 +163,56 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "c6d43eb05ba349fa",
+  "active": "2d960ee5baaae304",
   "lastOpenFiles": [
-    "2025-10-20.md",
-    "README.md",
-    "8 第八章/8.2 动力学——单刚体动力学.md",
-    "8 第八章/8.1 动力学——拉格朗日公式.md",
-    "9 第九章/未命名 2.base",
-    "9 第九章/未命名 1.base",
     "9 第九章/未命名.base",
-    "9 第九章/9.1 轨迹生成—点到点的轨迹and多项式插值法.md",
-    "9 第九章/9.2 轨迹生成—时间最优标度.md",
-    "3 第三章/3.4 齐次变换矩阵.md",
-    "3 第三章/3.5 运动旋量.md",
+    "9 第九章/未命名 1.base",
+    "9 第九章/未命名 2.base",
+    "11 第十一章/11.1 控制原理回顾.md",
+    "attachments/Pasted image 20251108162547.png",
     "5 第五章/5.1 运动旋量or力旋量的雅可比矩阵映射（引入）.md",
     "5 第五章/5.2 求空间雅可比矩阵和物体雅可比矩阵.md",
-    "6 第六章/6.1 逆运动学.md",
-    "10 第十章/10.1 运动规划.md",
-    "8 第八章/8.3 动力学——牛顿欧拉算法.md",
-    "11 第十一章/11.1 控制原理回顾.md",
-    "attachments/Pasted image 20250717145523.png",
-    "11 第十一章/image 11/Pasted image 20250722153335.png",
-    "11 第十一章/image 11/Pasted image 20250722152156.png",
-    "11 第十一章/image 11/Pasted image 20250722140715.png",
-    "11 第十一章/image 11/Pasted image 20250722141525.png",
-    "11 第十一章/image 11/Pasted image 20250722150631.png",
-    "11 第十一章/image 11/Pasted image 20250722140600.png",
-    "11 第十一章/image 11",
-    "11 第十一章",
     "3 第三章/3.8 力旋量.md",
     "3 第三章/3.7 刚体运动的指数坐标.md",
+    "11 第十一章/image 11/Pasted image 20251106191135.png",
+    "11 第十一章/image 11/Pasted image 20251106191115.png",
+    "11 第十一章/image 11/Pasted image 20251106190740.png",
+    "11 第十一章/image 11/Pasted image 20251106190526.png",
+    "11 第十一章/image 11/Pasted image 20251106184541.png",
+    "11 第十一章/image 11/Pasted image 20251106183523.png",
+    "11 第十一章/image 11/Pasted image 20251106182748.png",
+    "attachments/Pasted image 20251106182507.png",
+    "11 第十一章/image 11/Pasted image 20251106164539.png",
+    "10 第十章/10.1 运动规划.md",
+    "4 第四章/4.1 正运动学.md",
+    "3 第三章/3.6 单位螺旋轴.md",
+    "3 第三章/3.5 运动旋量.md",
+    "README.md",
+    "3 第三章/3.4 齐次变换矩阵.md",
+    "未命名.base",
+    "2025-10-20.md",
+    "8 第八章/8.2 动力学——单刚体动力学.md",
+    "8 第八章/8.1 动力学——拉格朗日公式.md",
+    "9 第九章/9.1 轨迹生成—点到点的轨迹and多项式插值法.md",
+    "9 第九章/9.2 轨迹生成—时间最优标度.md",
+    "6 第六章/6.1 逆运动学.md",
+    "8 第八章/8.3 动力学——牛顿欧拉算法.md",
+    "11 第十一章/image 11",
+    "11 第十一章",
     "3 第三章/3.1 旋转矩阵.md",
     "3 第三章/3.2 角速度.md",
-    "10 第十章/image 10/Pasted image 20250717151842.png",
-    "10 第十章/image 10/Pasted image 20250717151412.png",
-    "10 第十章/image 10/Pasted image 20250717151059.png",
     "10 第十章/image 10",
     "10 第十章",
-    "3 第三章/3.6 单位螺旋轴.md",
     "9 第九章/image9",
     "9 第九章",
     "3 第三章/3.3 旋转的指数坐标.md",
-    "4 第四章/4.1 正运动学.md",
     "7 第七章/7.1 闭链机器人.md",
-    "8 第八章/image8",
     "2 第二章/2.1 C-space.md",
     "2 第二章/2.5 任务空间与工作空间.md",
     "2 第二章/2.2 机器人的自由度.md",
-    "2 第二章/2.4 位姿约束和速度约束.md",
     "未命名.canvas"
   ]
 }
